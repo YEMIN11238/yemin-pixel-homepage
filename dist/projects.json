@@ -1,0 +1,84 @@
+{
+  "person": {
+    "name": "张俊豪",
+    "alias": "Yemin",
+    "handle": "YEMIN11238",
+    "avatar": "avatar.png",
+    "github": "https://github.com/YEMIN11238",
+    "xiaohongshu": "https://www.xiaohongshu.com/user/profile/60bcd4b20000000001002d49",
+    "intro": "你好，我是张俊豪。做 macOS 工具、浏览器扩展和交互网页，把好奇心做成可以使用的作品。",
+    "detail": "我也把界面经验整理成可复用的 Skill，偶尔做些小游戏。",
+    "source": "https://github.com/YEMIN11238/YEMIN11238/blob/main/README.md"
+  },
+  "projects": [
+    {
+      "id": "pop",
+      "title": "POP",
+      "subtitle": "划词翻译 · 截图 OCR",
+      "description": "macOS 划词翻译与截图 OCR 工具，也提供本地英汉词典和自定义 AI 服务。",
+      "source": "https://github.com/YEMIN11238/Pop",
+      "href": "https://yemin11238.github.io/Pop/",
+      "image": "pop.png"
+    },
+    {
+      "id": "wild-talker",
+      "title": "WILD TALKER",
+      "subtitle": "双语翻译 · AI 阅读",
+      "description": "基于 FluentRead 改造的浏览器扩展，加入段落语境划词、提示词预设与文档校验失败恢复。",
+      "source": "https://github.com/YEMIN11238/wild-talker",
+      "href": "https://yemin11238.github.io/wild-talker/",
+      "image": "wild-talker.png"
+    },
+    {
+      "id": "glass-ui",
+      "title": "GLASS UI",
+      "subtitle": "玻璃材质 · 可复用 Skill",
+      "description": "给现有界面加入液态玻璃、毛玻璃、浅深色及统一透明度控制。",
+      "source": "https://github.com/YEMIN11238/glass-ui",
+      "href": "https://yemin11238.github.io/glass-ui/assets/web/demo.html",
+      "image": "glass-ui.png"
+    },
+    {
+      "id": "music",
+      "title": "MUSIC EXPLORER",
+      "subtitle": "实时 3D · 音乐概念站",
+      "description": "以 Three.js 器物和连续滚动，串起音乐探索的网易云音乐非官方概念网页。",
+      "source": "https://github.com/YEMIN11238/netease-cloud-music-landing",
+      "href": "https://yemin11238.github.io/netease-cloud-music-landing/",
+      "image": "music-explorer.jpg"
+    },
+    {
+      "id": "todo-glass",
+      "title": "TO-DO GLASS",
+      "subtitle": "macOS 玻璃面板改造",
+      "description": "基于 TO-DO Panel 的界面预览，加入原生玻璃、浅深色与屏幕顶端下拉交互。",
+      "source": "https://github.com/YEMIN11238/to-do-panel-glass",
+      "href": "https://github.com/YEMIN11238/to-do-panel-glass",
+      "image": "todo-glass.png"
+    },
+    {
+      "id": "wonders-ex",
+      "title": "WONDERS EX",
+      "subtitle": "四关横版动作原型",
+      "description": "包含角色切换、二段跳与 Boss 战的非官方横版动作游戏原型。",
+      "source": "https://github.com/YEMIN11238/wonders-ex-fan-game",
+      "href": "https://github.com/YEMIN11238/wonders-ex-fan-game",
+      "image": "wonders-ex.png"
+    },
+    {
+      "id": "mosslume",
+      "title": "MOSSLUME",
+      "subtitle": "像素游戏 · 画面与概念",
+      "description": "游戏实机、森林概念图与标题画面。",
+      "source": null,
+      "href": "#mosslume-gallery",
+      "image": "mosslume-forest.png",
+      "gallery": [
+        "mosslume-gameplay.png",
+        "mosslume-forest.png",
+        "mosslume-title.png"
+      ],
+      "handheldCover": "mosslume-cover.png"
+    }
+  ]
+}
